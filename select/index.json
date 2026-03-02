@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "とまどうほどに照らしてくれ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:22:02.101700Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とまどうほどに照らしてくれ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_とまどうほどに照らしてくれ_サンボマスター.txt"
+    }
+  ]
+}
